@@ -1,0 +1,20 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [],
+  "exportFormats": [
+    {
+      "name": "Annotated Bib",
+      "outputPathTemplate": "Face After Effects Papers/{{creators[0].lastName}} ({{date | format(\"YYYY\")}}) - {{title}}.md",
+      "imageOutputPathTemplate": "Face After Effects Papers/{{creators[0].lastName}} ({{date | format(\"YYYY\")}}",
+      "imageBaseNameTemplate": "figure",
+      "templatePath": "Lit.md"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": false,
+  "whichNotesToOpenAfterImport": "first-imported-note"
+}

@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "8981c4db30ee594d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e4f4d8f5dbb9b3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fce4b8fa3306825",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Face After Effects Papers/Leopold (2001) - Prototype-referenced shape encoding revealed by high-level aftereffects.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Leopold (2001) - Prototype-referenced shape encoding revealed by high-level aftereffects"
+            }
+          },
+          {
+            "id": "ed9803981dfed14a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lit"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3695048e232a2e82",
+    "type": "split",
+    "children": [
+      {
+        "id": "a10e66ba958431b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dabe37c2cd2a7cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cec2d00168935115",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "618ec978f6082547",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b797b9ebdbbb7846",
+    "type": "split",
+    "children": [
+      {
+        "id": "379b6277643cdc7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a745aa46cde2699",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lit.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c3fc874380015ad0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lit.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4d6c64df74e2a182",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "de38fd34385cbc42",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2bfb88bb1c303860",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lit.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ed9803981dfed14a",
+  "lastOpenFiles": [
+    "Face After Effects Papers/stest.md",
+    "Face After Effects Papers/Leopold (2001) - Prototype-referenced shape encoding revealed by high-level aftereffects.md",
+    "Face After Effects Papers/Little (2012) - Adaptation to Antifaces and the Perception of Correct Famous Identity in an Average Face.md",
+    "Lit.md",
+    "Files/Leopold (2001 1/figure-4-x324-y30.png",
+    "Files/Leopold (2001 1/figure-2-x252-y375.png",
+    "Files/Leopold (2001 1/figure-4-x38-y468.png",
+    "Files/Leopold (2001 1",
+    "Files",
+    "Files/Leopold (2001/figure-2-x252-y375.png",
+    "Files/Leopold (2001",
+    "Face After Effects Papers/Leopold (2001) - Prototype-referenced shape encoding revealed by high-level aftereffects/figure-2-x252-y375.png",
+    "Face After Effects Papers/Images/leopoldPrototypereferencedShapeEncoding2001/figure-2-x252-y375.png",
+    "Face After Effects Papers/Leopold (2001) - Prototype-referenced shape encoding revealed by high-level aftereffects",
+    "Face After Effects Papers/Images/leopoldPrototypereferencedShapeEncoding2001",
+    "Face After Effects Papers/Images",
+    "Face After Effects Papers/littleAdaptationAntifacesPerception2012.md",
+    "Untitled.canvas",
+    "{{annotation.imageRelativePath}}.md",
+    "Face After Effects Papers/Figures",
+    "Face After Effects PaperslittleAdaptationAntifacesPerception2012.md",
+    "Templates",
+    "2026-10-15.md",
+    "Face After Effects Papers",
+    "Welcome.md"
+  ]
+}
