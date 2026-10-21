@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Lit"
             }
+          },
+          {
+            "id": "6c185365dd751387",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Face After Effects Papers/Leopold (2005) - The dynamics of visual adaptation to faces.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Leopold (2005) - The dynamics of visual adaptation to faces"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lit.md",
+                "file": "Face After Effects Papers/Leopold (2005) - The dynamics of visual adaptation to faces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,11 +218,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed9803981dfed14a",
+  "active": "6c185365dd751387",
   "lastOpenFiles": [
-    "Face After Effects Papers/stest.md",
     "Face After Effects Papers/Leopold (2001) - Prototype-referenced shape encoding revealed by high-level aftereffects.md",
+    "Face After Effects Papers/Leopold (2005) - The dynamics of visual adaptation to faces.md",
+    "Face After Effects Papers/stest.md",
     "Face After Effects Papers/Little (2012) - Adaptation to Antifaces and the Perception of Correct Famous Identity in an Average Face.md",
+    "Face After Effects Papers/BOOP.md",
     "Lit.md",
     "Files/Leopold (2001 1/figure-4-x324-y30.png",
     "Files/Leopold (2001 1/figure-2-x252-y375.png",

@@ -15,14 +15,7 @@ citekey: leopoldPrototypereferencedShapeEncoding2001
 pdf: https://www.rctn.org/vs265/leopold.pdf
 ---
 
-# Prototype-referenced shape encoding revealed by high-level aftereffects
   
-
-[](https://m365.cloud.microsoft/hwav2/chat/all?version=19.2610.35011.0&capabilities=interopPromise%2CsuspendOnClose%2CautoStart&client-request-id=9cbfbc34-f1d0-1540-b02a-66af59e5e5e9&appstate=suspended&SSRDesktopTest=2&isSignedOut=false)
-
-WorkGaston,
-
-Copilot Chat (Basic)
 
 Auto
 > [!abstract] Citation
